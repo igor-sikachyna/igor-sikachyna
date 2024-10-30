@@ -5,6 +5,7 @@ Hi, welcome to my GitHub profile
 Here is a summary of companies and projects I worked on over the past years:
 
 - Worked for over 3 years at [Ultra.io](https://ultra.io)
+  - Implemented new protocol features in an EOS(Leap)-based fork for better stability and improved user and developer experience
   - Designed and implemented the NFT contract and associated metadata standard
   - Built their Oracle contract to convert UOS<->USD
   - Maintained the [Discord bot to link Blockchain accounts](https://github.com/ultraio/ultra-discord-uniq-roles-bot)
@@ -42,3 +43,6 @@ I also worked on the development of the following 3 pet game projects:
 - [Conflux](https://store.steampowered.com/app/2849430/Conflux_Prologue/)
 - [Cyber Run](https://apkcombo.com/cyber-run-endless-runner/com.MonsterShowcase.CyberRun/)
 - [Quarantine simulator](https://store.steampowered.com/app/1414990/Quarantine_simulator/)
+
+## Languages of communication
+English, Ukrainian, Russian, French
