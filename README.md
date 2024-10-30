@@ -7,7 +7,7 @@ Here is a summary of companies and projects I worked on over the past years:
 - Worked for over 3 years at [Ultra.io](https://ultra.io)
   - Designed and implemented the NFT contract and associated metadata standard
   - Built their Oracle contract to convert UOS<->USD
-  - Maintained the [Discord bot to ling Blockchain accounts](https://github.com/ultraio/ultra-discord-uniq-roles-bot)
+  - Maintained the [Discord bot to link Blockchain accounts](https://github.com/ultraio/ultra-discord-uniq-roles-bot)
   - Created their [smart contract toolkit](https://github.com/ultraio/ultra-tool-kit)
   - Built and maintained a CI/CD pipeline across multiple repositories
   - Developed the Ethereum NFT redeem campaign page and backend
