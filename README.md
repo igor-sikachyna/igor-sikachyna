@@ -1,16 +1,44 @@
-## Hi there 👋
+Hi, welcome to my GitHub profile
 
-<!--
-**igor-sikachyna/igor-sikachyna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Work History
 
-Here are some ideas to get you started:
+Here is a summary of companies and projects I worked on over the past years:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Worked for over 3 years at [Ultra.io](https://ultra.io)
+  - Designed and implemented the NFT contract and associated metadata standard
+  - Built their Oracle contract to convert UOS<->USD
+  - Maintained the [Discord bot to ling Blockchain accounts](https://github.com/ultraio/ultra-discord-uniq-roles-bot)
+  - Created their [smart contract toolkit](https://github.com/ultraio/ultra-tool-kit)
+  - Built and maintained a CI/CD pipeline across multiple repositories
+  - Developed the Ethereum NFT redeem campaign page and backend
+  - Created the new version of the smart contract testing framework
+  <!--- https://github.com/ultraio/ultratest2 https://www.npmjs.com/package/@ultraos/ultratest2--->
+
+- Worked for almost 3 years at [CHI Software](https://chisw.com/)
+  - Developed a facial recognition system for welcoming employees entering the office
+  - Created a software application capable of reconstructing 3D human head models using a single image
+  - Optimized existing video object detection, tracking, and recognition solutions
+  - Worked on a project for comparison between PDF and Word documents
+  
+- Resolved some of the issues in [Deskflow (previously Synergy)](https://github.com/deskflow/deskflow)
+
+## Frameworks
+Boost, Qt, Vue, Tailwind CSS, REST, GraphQL
+
+## Languages
+C++, C#, TypeScript, JavaScript, Lua, Python, Wolfram Language
+
+## Technologies, libraries, and utilities
+Node.js, Docker, GitHub/GitLab CI/CD, MongoDB, MySQL, MSSQL, Git, Ledger, GCP, Unity, Godot,
+OpenCV, MXNet, OpenCL, OpenGL, dlib, CUDA, SFML, Intel MKL, Lua
+
+## Development tools
+Visual Studio Code, MS Visual Studio, CLion, Qt Creator, PVS-Studio, CMake
+
+## Other
+
+I also worked on the development of the following 3 pet game projects:
+
+- [Conflux](https://store.steampowered.com/app/2849430/Conflux_Prologue/)
+- [Cyber Run](https://apkcombo.com/cyber-run-endless-runner/com.MonsterShowcase.CyberRun/)
+- [Quarantine simulator](https://store.steampowered.com/app/1414990/Quarantine_simulator/)
