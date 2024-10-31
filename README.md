@@ -12,8 +12,8 @@ Here is a summary of companies and projects I worked on over the past years:
   - Created their [smart contract toolkit](https://github.com/ultraio/ultra-tool-kit)
   - Built and maintained a CI/CD pipeline across multiple repositories
   - Developed the Ethereum NFT redeem campaign page and backend
-  - Created the new version of the smart contract testing framework
-  <!--- https://github.com/ultraio/ultratest2 https://www.npmjs.com/package/@ultraos/ultratest2--->
+  - Created the new iteration of the [smart contract testing framework](https://www.npmjs.com/package/@ultraos/ultratest2)
+  - Maintained [public documentation](https://github.com/ultraio/docs-blockchain) stack and associated documents
 
 - Worked for almost 3 years at [CHI Software](https://chisw.com/)
   - Developed a facial recognition system for welcoming employees entering the office
@@ -43,6 +43,8 @@ I also worked on the development of the following 3 pet game projects:
 - [Conflux](https://store.steampowered.com/app/2849430/Conflux_Prologue/)
 - [Cyber Run](https://apkcombo.com/cyber-run-endless-runner/com.MonsterShowcase.CyberRun/)
 - [Quarantine simulator](https://store.steampowered.com/app/1414990/Quarantine_simulator/)
+
+I created one of the first [high-quality AI video upscales with a FPS increase](https://www.youtube.com/watch?v=ds1TX-jEh20) 
 
 ## Languages of communication
 English, Ukrainian, Russian, French
