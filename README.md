@@ -4,8 +4,8 @@ Hi, welcome to my GitHub profile
 
 Here is a summary of companies and projects I worked on over the past years:
 
-- Worked for over 3 years at [Ultra.io](https://ultra.io)
-  - Implemented new protocol features in an EOS(Leap)-based fork for better stability and improved user and developer experience
+- Worked for 3 years at [Ultra.io](https://ultra.io)
+  - Implemented new protocol features in an EOS(Antelope)-based fork for better stability and improved user and developer experience
   - Designed and implemented the NFT contract and associated metadata standard
   - Built their Oracle contract to convert UOS<->USD
   - Maintained the [Discord bot to link Blockchain accounts](https://github.com/ultraio/ultra-discord-uniq-roles-bot)
@@ -15,7 +15,7 @@ Here is a summary of companies and projects I worked on over the past years:
   - Created the new iteration of the [smart contract testing framework](https://www.npmjs.com/package/@ultraos/ultratest2)
   - Maintained [public documentation](https://github.com/ultraio/docs-blockchain) stack and associated documents
 
-- Worked for almost 3 years at [CHI Software](https://chisw.com/)
+- Worked for 3 years at [CHI Software](https://chisw.com/)
   - Developed a facial recognition system for welcoming employees entering the office
   - Created a software application capable of reconstructing 3D human head models using a single image
   - Optimized existing video object detection, tracking, and recognition solutions
@@ -30,15 +30,15 @@ Boost, Qt, Vue, Tailwind CSS, REST, GraphQL
 C++, C#, TypeScript, JavaScript, Lua, Python, Wolfram Language
 
 ## Technologies, libraries, and utilities
-Node.js, Docker, GitHub/GitLab CI/CD, MongoDB, MySQL, MSSQL, Git, Ledger, GCP, Unity, Godot,
-OpenCV, MXNet, OpenCL, OpenGL, dlib, CUDA, SFML, Intel MKL, Lua
+EOS(Antelope), Node.js, Docker, GitHub/GitLab CI/CD, MongoDB, MySQL, MSSQL, Git, GCP, Unity, Godot,
+OpenCV, MXNet, OpenCL, OpenGL, dlib, CUDA, Intel MKL, SFML
 
 ## Development tools
 Visual Studio Code, MS Visual Studio, CLion, Qt Creator, PVS-Studio, CMake
 
 ## Other
 
-I also worked on the development of the following 3 pet game projects:
+I also worked on the following 3 pet game projects:
 
 - [Conflux](https://store.steampowered.com/app/2849430/Conflux_Prologue/)
 - [Cyber Run](https://apkcombo.com/cyber-run-endless-runner/com.MonsterShowcase.CyberRun/)
