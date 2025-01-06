@@ -30,21 +30,11 @@ Boost, Qt, Vue, Tailwind CSS, REST, GraphQL
 C++, TypeScript, JavaScript, Go, Solidity, C#, Lua, Python, Wolfram Language
 
 ## Technologies, libraries, and utilities
-EOS(Antelope), Node.js, Docker, GitHub/GitLab CI/CD, GCP, Hardhat, Foundry, web3.js, OpenCV, MXNet, OpenCL, dlib, CUDA, Intel MKL,
-MongoDB, MySQL, MSSQL, OpenGL, SFML, Unity, Godot,
+EOS(Antelope), Node.js, Docker, GitHub/GitLab CI/CD, GCP, Hardhat, Foundry, web3.js, Bitcoin Core, Cosmos SDK,
+OpenCV, MXNet, OpenCL, dlib, CUDA, Intel MKL, MongoDB, PostgreSQL, MySQL, MSSQL, OpenGL, SFML, Unity, Godot
 
 ## Development tools
 Visual Studio Code, MS Visual Studio, CLion, Qt Creator, PVS-Studio, CMake
-
-## Other
-
-I also worked on the following 3 pet game projects:
-
-- [Conflux](https://store.steampowered.com/app/2849430/Conflux_Prologue/)
-- [Cyber Run](https://apkcombo.com/cyber-run-endless-runner/com.MonsterShowcase.CyberRun/)
-- [Quarantine simulator](https://store.steampowered.com/app/1414990/Quarantine_simulator/)
-
-I created one of the first [high-quality AI video upscales with a FPS increase](https://www.youtube.com/watch?v=ds1TX-jEh20) 
 
 ## Languages of communication
 English, Ukrainian, Russian, French
